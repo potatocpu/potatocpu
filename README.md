@@ -1,3 +1,1 @@
-I'm Axel. HEAD is now at 83521fa.
-
-<!-- printf 'Name' | git hash-object --stdin -->
+I'm Axel. Magic number: 0x4c697a7a6965.
